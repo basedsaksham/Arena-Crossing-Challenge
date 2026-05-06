@@ -1,4 +1,3 @@
-
 # Crossing Challenge Submission
 
 This repository contains my entry for Gobblecube's Crossing Challenge.
